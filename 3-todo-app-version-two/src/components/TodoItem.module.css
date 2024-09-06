@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid rgb(194, 181, 181);
+}
+.container-2 {
+  padding: 5px;
+  padding-top: 15px;
+}
+.todo-name,
+.todo-date {
+  color: rgb(85, 97, 114);
+  text-align: center;
+  font-weight: 600;
+}
+.kg-row {
+  margin: 10px 5px;
+  text-align: left;
+}

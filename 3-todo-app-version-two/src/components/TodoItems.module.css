@@ -1,0 +1,7 @@
+.items-container {
+  background-color: #ddc8c8b6;
+  width: 80vw;
+  -webkit-box-shadow: 5px 4px 13px -2px rgba(38, 34, 38, 1);
+  -moz-box-shadow: 5px 4px 13px -2px rgba(38, 34, 38, 1);
+  box-shadow: 5px 4px 13px -2px rgba(38, 34, 38, 1);
+}
